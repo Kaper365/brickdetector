@@ -13,3 +13,12 @@
 ```bash
 $ pip install brickdetector
 ```
+
+## Usage
+
+```py
+from brickdetector import brickbasher
+
+# w -- string. word to check
+brickbasher(w)
+```
